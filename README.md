@@ -22,7 +22,7 @@ mkdir -p /opt/etc/ipkg
 echo "src cross $feed" > /opt/etc/ipkg/feeds.conf
 ```
 
-To add the new ``` /opt ``` directory to your ``` $PATH ```, type ``` vi /etc/profile ```, press ``` i ```and paste the following line just before ``` export PATH ```:
+To add the new ``` /opt ``` directory to your ``` $PATH ```, type ``` vi /etc/profile ```, press ``` i ``` and paste the following line just before ``` export PATH ```:
 ```
 PATH=/opt/bin:/opt/sbin:$PATH
 ```
