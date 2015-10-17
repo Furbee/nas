@@ -1,4 +1,4 @@
-# Git-server
+# Nas
 
 ####Install instructions####
 
