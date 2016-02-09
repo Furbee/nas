@@ -1,8 +1,8 @@
-# Git-server
+# Nas
 
 ####Install instructions####
 
-SSH into your DiskStation, then run:
+SSH into DiskStation, then run:
 
 ```
 mkdir /volume1/@optware
