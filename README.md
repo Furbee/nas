@@ -1,4 +1,4 @@
-# Nas
+# DiskStation
 
 #### Install instructions 
 
