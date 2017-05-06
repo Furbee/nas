@@ -1,6 +1,6 @@
 # Nas
 
-####Install instructions####
+#### Install instructions 
 
 SSH into DiskStation, then run:
 
